@@ -7,7 +7,7 @@ import logo from '../../assets/logo.svg';
 import restaurante from '../../assets/restaurante-fake.png';
 import { Card } from '../../components';
 
-import { Container, Search, Logo, Wrapper, Map, CarouselTitle } from './styles'
+import { Container, Carousel, Search, Logo, Wrapper, Map, CarouselTitle } from './styles'
 
 const Home = () => {
   const [inputValue, setInputValue] = useState();
@@ -35,14 +35,14 @@ const Home = () => {
             <Input value={inputValue} onChange={(e) => setInputValue(e.target.value)}/>
           </TextField>
           <CarouselTitle>Na sua Área</CarouselTitle>
-          <Slider {...settings}>
+          <Carousel {...settings}>
             <Card photo={restaurante} />
             <Card photo={restaurante} />
             <Card photo={restaurante} />
             <Card photo={restaurante} />
             <Card photo={restaurante} />
 
-          </Slider>
+          </Carousel>
         </Search>
       </Container>
       <Map />
