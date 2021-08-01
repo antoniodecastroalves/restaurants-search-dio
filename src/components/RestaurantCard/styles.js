@@ -34,4 +34,12 @@ export const Address = styled.span`
   font-size: 16px;
   line-height: 19px;
   margin-bottom: 10px;
+  margin-top: 10px;
+`;
+
+export const RestaurantPhoto = styled.img`
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 16px;
 `;
