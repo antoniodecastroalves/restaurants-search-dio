@@ -26,7 +26,6 @@ export const Logo = styled.img`
   margin-bottom: 15px;
   width: 200px;
 
-
 `;
 
 export const Map = styled.div`
