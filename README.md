@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Digital Innovation One" title="#Digital Innovation One" src="./resources/dio-logo.png" width="250px" />
+    ![dio- logo]()
+    <img alt="Digital Innovation One" title="#Digital Innovation One" src="https://user-images.githubusercontent.com/47957363/130337418-db0771ff-1810-4a29-aac8-de5023d5c47e.png" width="250px" />
 </h1>
 
 <p align="center">
