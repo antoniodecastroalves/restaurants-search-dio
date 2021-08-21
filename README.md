@@ -23,11 +23,12 @@ Sistema web de busca de restaurantes, parecido com o serviço que o Google ofere
 </p>  
 <br>
 
-## :rocket: Tecnologia
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 - [ReactJS](https://pt-br.reactjs.org/)
+- Google API
 
 \* Para mais detalhes, veja o <kbd>[package.json](./package.json)</kbd>
 
