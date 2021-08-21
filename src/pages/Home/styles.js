@@ -25,8 +25,7 @@ export const Search = styled.section`
 
 export const Logo = styled.img`
   margin-bottom: 15px;
-  width: 200px;
-
+  padding: 2px 60px;
 `;
 
 export const Map = styled.div`
