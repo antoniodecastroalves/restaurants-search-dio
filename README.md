@@ -39,16 +39,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 
 # Clone este repositório
+```bash
 $ git clone https://github.com/antoniodecastroalves/-restaurants-search-dio.git
+```
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd restaurants-search-dio
 
 # Instale as dependências
+```bash
 $ yarn install
+```
 
 # Execute a aplicação
+```bash
 $ yarn start
+```
 
 ## :memo: Licença
 
