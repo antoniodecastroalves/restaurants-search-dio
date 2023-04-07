@@ -36,6 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 
 ### Pré-requisitos
+- yarn
 
 
 # Clone este repositório
@@ -44,7 +45,9 @@ $ git clone https://github.com/antoniodecastroalves/-restaurants-search-dio.git
 ```
 
 # Acesse a pasta do projeto no seu terminal/cmd
+```bash
 $ cd restaurants-search-dio
+```
 
 # Instale as dependências
 ```bash
